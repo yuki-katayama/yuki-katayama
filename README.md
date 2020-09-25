@@ -10,10 +10,13 @@
 + 🏫 I'm currently a 3rd year student at a university in Japan.
 + 🌱 I'm currently learning ruby on rails, vue.
 + 📝 I recently started a blog-like thing on note.
+
 ---
 ### 📈 My Github stats:
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=yuki-katayama&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-katayama&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 😍 Favorite saying:
-> Grow at your own pace every day.
+<div style="text-align: center;">
+<h4>Grow at your own pace every day.</h>
+</div>
