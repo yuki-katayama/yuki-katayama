@@ -11,6 +11,8 @@
 + 🌱 I'm currently learning ruby on rails, vue.
 + 📝 I recently started a blog-like thing on note.
 
+![]
+(https://static.moele.me/img/gif/gif-creator-preview-light-191003.svg)
 ---
 ### 📈 My Github stats:
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=yuki-katayama&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
