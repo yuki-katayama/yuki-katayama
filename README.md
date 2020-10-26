@@ -8,7 +8,7 @@
 
 ### 🤵 About Me:
 + 🏫 I'm currently a 3rd year student at a university in Japan.
-+ 🌱 I'm currently learning ruby on rails, vue.
++ 🌱 I'm currently learning Flutter.
 + 📝 I recently started a blog-like thing on note.
 
 ---
