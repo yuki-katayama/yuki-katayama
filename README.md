@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://twitter.com/yuuuki81" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" width="30" /></a>&nbsp;
 <a href="https://note.com/kyuki810"><img align="center" alt="note" width="30px" src="https://simpleicons.org/icons/microsoftonenote.svg" /></a>
-  <a href="https://note.com/kyuki810"><img align="center" alt="note" width="30px" src="https://simpleicons.org/icons/youtube.svg" /></a>
+  <a href="https://www.youtube.com/channel/UCs6kpS_N7wsKJKYTEV-Gtwg"><img align="center" alt="note" width="30px" src="https://simpleicons.org/icons/youtube.svg" /></a>
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
