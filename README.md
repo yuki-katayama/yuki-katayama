@@ -12,13 +12,14 @@
 + 🎧 I'm currently start making some music.(https://www.youtube.com/channel/UCs6kpS_N7wsKJKYTEV-Gtwg)
 + 📝 I recently started a blog-like thing on note.(https://note.com/kyuki810)
 
----
-### 📈 My Github status:
-![Trophy](https://github-profile-trophy.vercel.app/?username=yuki-katayama&theme=gruvbox)
-![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=yuki-katayama&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-katayama&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-[![kyuki's 42 stats](https://badge42.herokuapp.com/api/stats/kyuki?cursus=42cursus)](https://github.com/kyuki/badge42)
 ### 😍 Favorite saying:
 <div style="text-align: center;">
 <h4>Grow at your own pace every day.</h>
 </div>
+
+---
+### 📈 My Github status:
+![Trophy](https://github-profile-trophy.vercel.app/?username=yuki-katayama&theme=gruvbox&no-bg=true)
+![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=yuki-katayama&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-katayama&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![kyuki's 42 stats](https://badge42.herokuapp.com/api/stats/kyuki?cursus=42cursus)](https://github.com/kyuki/badge42)
