@@ -28,7 +28,7 @@
 </a>
   
 <a href="https://github.com/yuki-katayama/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-katayama&layout=compact&text_color=daf7dc&bg_color=151515&hide=jupyter%20notebook,shaderlab,glsl,hlsl,roff,c%23&langs_count=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-katayama&layout=compact&text_color=daf7dc&bg_color=151515&hide=jupyter%20notebook,shaderlab,glsl,hlsl,roff,c%23,css,ruby&langs_count=20" />
 </a>
   
   
