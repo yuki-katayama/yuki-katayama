@@ -24,11 +24,11 @@
 </a>
   
 <a href="https://github.com/yuki-katayama/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuki-katayama&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuki-katayama&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]" />
 </a>
   
 <a href="https://github.com/yuki-katayama/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-katayama&layout=compact&text_color=daf7dc&bg_color=151515&hide=jupyter%20notebook,shaderlab,glsl,hlsl,roff,c%23&langs_count=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-katayama&layout=compact&text_color=daf7dc&bg_color=151515&hide=jupyter%20notebook,shaderlab,glsl,hlsl,roff,c%23&langs_count=20" />
 </a>
   
   
