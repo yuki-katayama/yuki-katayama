@@ -19,8 +19,19 @@
 
 ---
 ### 📈 My Github status:
-![Trophy](https://github-profile-trophy.vercel.app/?username=yuki-katayama&theme=gruvbox)
-![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=yuki-katayama&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-katayama&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/yuki-katayama/github-readme-stats">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=yuki-katayama&theme=gruvbox" />
+</a>
+  
+<a href="https://github.com/yuki-katayama/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuki-katayama&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]" />
+</a>
+  
+<a href="https://github.com/yuki-katayama/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-katayama&layout=compact&text_color=daf7dc&bg_color=151515&hide=jupyter%20notebook,shaderlab,glsl,hlsl,roff,c%23&langs_count=20" />
+</a>
+  
+  
 [![kyuki's 42 stats](https://badge42.herokuapp.com/api/stats/kyuki?cursus=42cursus)](https://github.com/kyuki/badge42)
+
 </div>
