@@ -32,6 +32,6 @@
 </a>
   
   
-[![kyuki's 42 stats](https://badge42.herokuapp.com/api/stats/kyuki?cursus=42cursus)](https://github.com/kyuki/badge42)
+[![kyuki's 42 stats](https://badge42.vercel.app/api/v2/cl1txncxk002509jpiqdhtmxw/stats?cursusId=21&coalitionId=62)](https://github.com/JaeSeoKim/badge42)
 
 </div>
